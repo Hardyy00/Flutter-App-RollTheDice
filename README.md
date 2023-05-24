@@ -1,2 +1,8 @@
 # Flutter-App-RollTheDice
-<h1> Flutter App</h1>
+<hr>
+
+<h2> A Basic Flutter Application </h2>
+<hr>
+
+<br>
+<p> On clicking the roll buttom , it rolls the dice </p>
